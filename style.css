@@ -1,0 +1,17 @@
+body
+{
+font-family: 'Gluten', cursive;
+background: #f5dbda;
+}
+.copy_right_footer
+{
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    bottom: 0;
+    font-size:18px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    line-height:3;
+}
